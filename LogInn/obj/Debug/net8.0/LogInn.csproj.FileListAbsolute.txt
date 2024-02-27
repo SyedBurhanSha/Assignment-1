@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LogInn\LogInn\bin\Debug\net8.0\LogInn.exe
+C:\Users\HP\source\repos\LogInn\LogInn\bin\Debug\net8.0\LogInn.deps.json
+C:\Users\HP\source\repos\LogInn\LogInn\bin\Debug\net8.0\LogInn.runtimeconfig.json
+C:\Users\HP\source\repos\LogInn\LogInn\bin\Debug\net8.0\LogInn.dll
+C:\Users\HP\source\repos\LogInn\LogInn\bin\Debug\net8.0\LogInn.pdb
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.AssemblyInfo.cs
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.dll
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\refint\LogInn.dll
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.pdb
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\LogInn.genruntimeconfig.cache
+C:\Users\HP\source\repos\LogInn\LogInn\obj\Debug\net8.0\ref\LogInn.dll
